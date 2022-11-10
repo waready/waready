@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 xd
+
+![alt text](https://github.com/waready/waready/01.jpeg?raw=true)
+
 
 <!--
 **waready/waready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
