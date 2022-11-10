@@ -1,6 +1,6 @@
 ### Hi there 👋 xd
 
-![alt text](https://github.com/waready/waready/01.jpeg?raw=true)
+![alt text](https://github.com/waready/waready/blob/main/01.jpeg?raw=true)
 
 
 <!--
