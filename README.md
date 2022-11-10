@@ -1,6 +1,6 @@
 ### -m "inital commit"
 
-![alt text](https://github.com/waready/waready/blob/main/01.jpeg?raw=true)
+![alt text](https://github.com/waready/waready/blob/main/01.jpeg?raw=400x300)
 
 
 <!--
