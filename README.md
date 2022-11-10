@@ -1,4 +1,4 @@
-### Hi there 👋 xd
+### -m "inital commit"
 
 ![alt text](https://github.com/waready/waready/blob/main/01.jpeg?raw=true)
 
