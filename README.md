@@ -1,7 +1,4 @@
-### -m "inital commit"
-
-![alt text](https://github.com/waready/waready/blob/main/01.jpeg?raw=400x300)
-
+-----
 
 <!--
 **waready/waready** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
